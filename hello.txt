@@ -1,0 +1,7 @@
+hello git
+git status 查看状态
+git init 初始化本地库
+git add 添加到暂存区
+git commit-m 提交到本地库
+git reflog 查看历史记录
+git rest-hard 版本穿梭
